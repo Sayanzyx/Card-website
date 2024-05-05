@@ -64,8 +64,8 @@ export default function Home() {
         <Tooltip content={formatAgeCountdown()} theme="custom-tooltip" arrow>
           <strong>{myAge}</strong>
         </Tooltip>{' '}
-        anos e sou um entusiasta na tecnologia, sempre procurando aprender o máximo possível com
-        novas funcionalidades e novas tecnologias.
+        anos e sou um entusiasta na tecnologia, sempre procurando aprender o máximo novas
+        funcionalidades e novas tecnologias.
       </Paragraph>
 
       <Paragraph>
@@ -90,8 +90,8 @@ export default function Home() {
 
       <Paragraph>
         Em <strong>2022</strong> Comecei minha jornada com <span>Javascript</span> usando o{' '}
-        <strong>Node.js</strong>, inicialmente fiz bots para Discord, um tempo depois no final de
-        2023 comecei a fazer sites usando HTML, CSS e JS.
+        <span>Node.js</span>, inicialmente fiz bots para Discord, um tempo depois no final de 2023
+        comecei a fazer sites usando HTML, CSS e JS.
       </Paragraph>
     </Wrapper>
   );
